@@ -1,6 +1,6 @@
 import React from "react";
-import CollectorButton from './CollectorButton'
-import SubmitForm from './SubmitForm'
+import CollectorButton from '../CollectorButton'
+import SubmitForm from '../SubmitForm'
 
 
 
